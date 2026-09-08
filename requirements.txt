@@ -1,0 +1,6 @@
+# Runs inside a Snowflake worksheet / Snowsight notebook.
+# Local installs only needed if running via snowpark session from your machine.
+snowflake-snowpark-python
+snowflake-ml-python
+matplotlib
+numpy

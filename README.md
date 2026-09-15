@@ -1,6 +1,6 @@
 Detecting Unfair Airline Pricing at Scale
 
-A regulatory surveillance framework analysing 76 million U.S. flight fares with XGBoost, Isolation Forest, SQL, and market-concentration analysis, built entirely in Snowflake.
+A regulatory surveillance framework analysing 82 million U.S. flight fares with XGBoost, Isolation Forest, SQL, and market-concentration analysis, built entirely in Snowflake.
 
 
 
@@ -10,7 +10,7 @@ Team project (Hult MBAN, Business Intelligence). I co-developed the seven-model 
 
 The headline findings
 
-We analysed 76M Expedia ticket offers (235 U.S. routes, 16 airports, Apr–Oct 2022) from a regulator's perspective: which fares can't be explained by any legitimate factor, and do the carriers charging them face real competition?
+We analysed 82M Expedia ticket offers (235 U.S. routes, 16 airports, Apr–Oct 2022) from a regulator's perspective: which fares can't be explained by any legitimate factor, and do the carriers charging them face real competition?
 
 $312M in unexplained pricing was identified across 7.2M scored flights, concentrated in specific route-carrier combinations. Three findings stood out because pricing ran backwards:
 
